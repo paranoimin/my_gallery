@@ -1,0 +1,24 @@
+{
+  "name": "my_gallery",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 -p 3500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paranoimin/my_gallery.git"
+  },
+  "author": "jamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paranoimin/my_gallery/issues"
+  },
+  "homepage": "https://github.com/paranoimin/my_gallery#readme",
+  "dependencies": {
+    "http-server": "^0.10.0",
+    "jquery": "^3.2.1"
+  }
+}
