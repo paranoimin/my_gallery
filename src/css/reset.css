@@ -1,9 +1,13 @@
-*, body {
+*,
+body {
     margin: 0;
     padding: 0;
 }
 
-div, header, section, footer {
+div,
+header,
+section,
+footer {
     margin: 0;
     padding: 0;
     display: block;
